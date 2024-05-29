@@ -1,5 +1,5 @@
-BIT-ERROR-ESTIMATOR
-ABSTRACT
+# BIT-ERROR-ESTIMATOR
+# ABSTRACT
 
 In modern communication systems, ensuring the accuracy and reliability of transmitted data is paramount. The Bit Error Estimator (BER) plays a crucial role in evaluating the quality of communication channels by quantifying the rate of erroneous bits. This abstract provides an overview of a novel BER estimation approach designed to enhance the reliability and performance of communication systems.
 
